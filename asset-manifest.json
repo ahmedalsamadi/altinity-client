@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Altinity/static/css/main.a07120f2.css",
+    "main.js": "/Altinity/static/js/main.22d31248.js",
+    "static/media/landing1.mp4": "/Altinity/static/media/landing1.29eb18649a8e5b356100.mp4",
+    "static/media/landing.png": "/Altinity/static/media/landing.1be8066bf55403068644.png",
+    "static/media/default.jpg": "/Altinity/static/media/default.ded9ed3be4422ec0b4f7.jpg",
+    "index.html": "/Altinity/index.html",
+    "main.a07120f2.css.map": "/Altinity/static/css/main.a07120f2.css.map",
+    "main.22d31248.js.map": "/Altinity/static/js/main.22d31248.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a07120f2.css",
+    "static/js/main.22d31248.js"
+  ]
+}
